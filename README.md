@@ -8,4 +8,5 @@ This is a repository full of resources to do with developing bots for Discord. I
 
 ## contents
 
-- [The best practices for Discord Bots :robot:](best-practices.md)
+- [The best practices for Discord Bots](best-practices.md)
+- [Libraries for creating Discord Bots](libraries.md)
