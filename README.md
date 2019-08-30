@@ -1,4 +1,4 @@
-![](assets/readme.png)
+![Discord](assets/readme.png)
 
 # discord
 

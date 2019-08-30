@@ -1,4 +1,4 @@
-![](assets/practices.png)
+![Best Practices](assets/practices.png)
 
 # The best practices for Discord Bots :robot:
 

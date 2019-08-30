@@ -1,4 +1,4 @@
-![](assets/libraries.png)
+![Libraries](assets/libraries.png)
 
 # Libraries for creating Discord Bots :robot:
 
@@ -6,7 +6,7 @@
 - DSharpPlus
 - discordcr
 - nyx
-- Discordgo
+- Discordgo ([example](examples/Discordgo))
 - discord-hs
 - Discord4J
 - JDA
