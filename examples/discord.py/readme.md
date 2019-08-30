@@ -2,7 +2,7 @@
 
 # Discord<span>.</span>py example :robot:
 
-Within this folder is an example of a Discord.py ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `bot.py` with your bot's token, opening a command prompt in this folder, and running `npm run start`.
+Within this folder is an example of a Discord.py ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `bot.py` with your bot's token, opening a command prompt in this folder, and running `python bot.py`.
 
 ## Other examples of Discord<span>.</span>py bots
 
