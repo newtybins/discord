@@ -18,7 +18,7 @@
 - Discordia
 - litcord
 - RestCord
-- discord<span>.</span>py
+- discord<span>.</span>py ([example](examples/discord.py))
 - discordrb
 - serenity
 - discord-rs
