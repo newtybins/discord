@@ -14,7 +14,7 @@
 - discord<span>.</span>io
 - eris
 - discordie
-- discord<span>.</span>js
+- discord<span>.</span>js ([example](examples/discord.js))
 - Discordia
 - litcord
 - RestCord
