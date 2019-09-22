@@ -1,6 +1,12 @@
-![Best Practices](assets/practices.png)
+<!-- markdownlint-disable -->
+<div align="center">
+<img src="assets/practices.png">
+<br>
+<br>
+<p style="font-size: 36px; font-weight: bold;">Best Practices 👍</p>
+</div>
 
-# The best practices for Discord Bots :robot:
+---
 
 This is a list of the best practices for Discord Bots, as curated by the community. These guidelines are influenced massively by the guidelines listed in [meew0's repository](https://github.com/meew0/discord-bot-best-practices), which has apparently "lost relevance", and hasn't been updated in two years.
 

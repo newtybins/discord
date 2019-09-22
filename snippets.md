@@ -1,13 +1,24 @@
-![Snippets](assets/snippets.jpg)
+<!-- markdownlint-disable -->
+<div align="center">
+<img src="assets/snippets.png">
+<br>
+<br>
+<p style="font-size: 36px; font-weight: bold;">Snippets ✂</p>
+</div>
 
-# Snippets ✂
+---
 
 ## Contents 📜
 
-- [Discord.js](#discord.js)
-  - [Calculating a member's join position](#calculating-a-member's-join-position)
-  - [Check if a message was sent in a server](#check-if-a-message-was-sent-in-a-server)
-  - [Check for a member's tag or a user mention in a string](#check-for-a-member's-tag-or-a-user-mention-in-a-string)
+<details>
+<summary><a href="#discord.js">Discord.js</a></summary>
+
+<ul>
+<li><a href="#calculating-a-members-join-position">Calculating a member's join position</a></li>
+<li><a href="#check-if-a-message-was-sent-in-a-server">Check if a message was sent in a server</a></li>
+<li><a href="#check-for-a-members-tag-or-a-user-mention-in-a-string-and-return-a-guildmember">Check for a member's tag or a user mention in a string and return a GuildMember</a></li>
+</ul>
+</details>
 
 ### Discord.js
 
