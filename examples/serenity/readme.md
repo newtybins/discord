@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <div align="center">
-<img src="../../assets/serenity.png" height="250">
+<img src="../../assets/libraries/serenity.png" height="250">
 <br>
 <br>
 <p style="font-size: 36px; font-weight: bold;"><code>serenity</code> example 🤖</p>

@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <div align="center">
-<img src="../../assets/discordpy.png" height="250">
+<img src="../../assets/libraries/discordpy.png" height="250">
 <br>
 <br>
 <p style="font-size: 36px; font-weight: bold;"><code>discord.py</code> example 🤖</p>

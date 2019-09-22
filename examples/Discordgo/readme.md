@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <div align="center">
-<img src="../../assets/discordgo.png" height="250">
+<img src="../../assets/libraries/discordgo.png" height="250">
 <br>
 <br>
 <p style="font-size: 36px; font-weight: bold;"><code>Discordgo</code> example 🤖</p>
