@@ -15,3 +15,4 @@ Within this directory you can find various examples of Discord Bots written in d
 - [discord.js](discord.js/)
 - [discord.py](discord.py/)
 - [Discordgo](Discordgo/)
+- [serenity](serenity/)

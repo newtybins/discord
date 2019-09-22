@@ -1,1 +1,9 @@
+# node
 node_modules
+
+# rust
+target
+Cargo.lock
+
+# other
+todo.md

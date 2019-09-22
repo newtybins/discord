@@ -1,0 +1,8 @@
+[package]
+name = "serenity-example"
+version = "0.1.0"
+authors = ["Jacob Smith"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.7.0"
