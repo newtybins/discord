@@ -1,12 +1,18 @@
-![Discord.js](../../assets/discordjs.png)
+<!-- markdownlint-disable -->
+<div align="center">
+<img src="../../assets/discordjs.png">
+<br>
+<br>
+<p style="font-size: 36px; font-weight: bold;"><code>discord.js</code> example 🤖</p>
+</div>
 
-# Discord.js example :robot:
+---
 
-Within this folder is an example of a Discord.js ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `index.js` with your bot's token, opening a command prompt in this folder, and running `npm run start`.
+Within this folder is an example of a `discord.js` ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `index.js` with your bot's token, opening a command prompt in this folder, and running `node index.js`.
 
-You can find documentation for Discord.js [here](https://discord.js.org/#/docs/main/stable/general/welcome).
+You can find documentation for `discord.js` [here](https://discord.js.org/#/docs/main/stable/general/welcome).
 
-## Other examples of Discord.js bots
+## Other examples of `discordjs` bots
 
 ## JavaScript
 
@@ -16,4 +22,4 @@ You can find documentation for Discord.js [here](https://discord.js.org/#/docs/m
 
 ### TypeScript
 
-- [Kaida](https://github.com/jsmiith/kaida), by [jsmiith](https://github.com/jsmiith)
+- [Taiga](https://github.com/jsmiith/taiga), by [jsmiith](https://github.com/jsmiith)

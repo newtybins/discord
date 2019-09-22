@@ -1,12 +1,18 @@
-![Discord.py](../../assets/discordpy.png)
+<!-- markdownlint-disable -->
+<div align="center">
+<img src="../../assets/discordpy.png" height="250">
+<br>
+<br>
+<p style="font-size: 36px; font-weight: bold;"><code>discord.py</code> example 🤖</p>
+</div>
 
-# Discord<span>.</span>py example :robot:
+---
 
-Within this folder is an example of a Discord.py ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `bot.py` with your bot's token, opening a command prompt in this folder, and running `python bot.py`.
+Within this folder is an example of a `discord.py` ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `bot.py` with your bot's token, opening a command prompt in this folder, and running `python bot.py`.
 
-You can find documentation for Discord.py [here](https://discordpy.readthedocs.io/en/latest/).
+You can find documentation for `discord.py` [here](https://discordpy.readthedocs.io/en/latest/).
 
-## Other examples of Discord<span>.</span>py bots
+## Other examples of `discord.py` bots
 
 - [discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py), by [AlexFlipnote](https://github.com/AlexFlipnote)
 - [RoxBot](https://github.com/Roxxers/roxbot), by [Roxxers](https://github.com/Roxxers)

@@ -1,15 +1,12 @@
 {
-    "name": "discord.js-example",
-    "version": "1.0.0",
-    "description": "A simple ping bot written with Discord.js",
-    "homepage": "https://github.com/jsmiith/discord/examples/discord.js",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "author": "Jacob Smith",
-    "license": "UNLICENSED",
-    "dependencies": {
-        "discord.js": "^11.5.1"
-    }
+  "name": "discord.js-example",
+  "version": "1.0.0",
+  "description": "A simple ping bot written with Discord.js",
+  "homepage": "https://github.com/jsmiith/discord/examples/discord.js",
+  "main": "index.js",
+  "author": "Jacob Smith",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
