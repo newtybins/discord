@@ -1,16 +1,13 @@
 <!-- markdownlint-disable -->
 <div align="center">
-<img src="assets/practices.png">
+<img src="assets/libraries.png">
 <br>
-<br>
-<p style="font-size: 36px; font-weight: bold;">Best Practices 👍</p>
+<h1>Best Practices 👍</h1>
 </div>
-
----
 
 This is a list of the best practices for Discord Bots, as curated by the community. These guidelines are influenced massively by the guidelines listed in [meew0's repository](https://github.com/meew0/discord-bot-best-practices), which has apparently "lost relevance", and hasn't been updated in two years.
 
-*These guidelines are intended for bots running on public servers. If your bot is restricted to private ones, this document most likely does not apply to you.*
+_These guidelines are intended for bots running on public servers. If your bot is restricted to private ones, this document most likely does not apply to you._
 
 ## 1. Commands should be explicitly invoked.
 

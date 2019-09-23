@@ -2,11 +2,10 @@
 <div align="center">
 <img src="assets/libraries.png">
 <br>
-<br>
-<p style="font-size: 36px; font-weight: bold;">Libraries 🖥</p>
+<h1>Libraries 🖥</h1>
 </div>
 
----
+A list of libraries to allow you to choose which one you would like to use on your coding adventure. Some libraries have examples attached - please do check them out.
 
 - [Discord.Net](https://github.com/RogueException/Discord.Net) - C# - _No example._
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus/) - C# - _No example._ <img src="assets/libraries/dsharpplus.png" height="20">

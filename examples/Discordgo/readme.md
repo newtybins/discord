@@ -2,11 +2,8 @@
 <div align="center">
 <img src="../../assets/libraries/discordgo.png" height="250">
 <br>
-<br>
-<p style="font-size: 36px; font-weight: bold;"><code>Discordgo</code> example 🤖</p>
+<h1><code>Discordgo</code> example 🤖</h1>
 </div>
-
----
 
 Within this folder is an example of a `Discordgo` ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `main.go` with your bot's token, opening a command prompt in this folder, and running `go run main.go`.
 

@@ -2,24 +2,29 @@
 <div align="center">
 <img src="../../assets/libraries/discordjs.png">
 <br>
-<br>
-<p style="font-size: 36px; font-weight: bold;"><code>discord.js</code> example 🤖</p>
+<h1><code>discord.js</code> example 🤖</h1>
 </div>
-
----
 
 Within this folder is an example of a `discord.js` ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `index.js` with your bot's token, opening a command prompt in this folder, and running `node index.js`.
 
 You can find documentation for `discord.js` [here](https://discord.js.org/#/docs/main/stable/general/welcome).
 
-## Other examples of `discordjs` bots
+## Other examples of `discord.js` bots
 
-## JavaScript
+<details>
+<summary><strong>JavaScript</strong></summary>
 
-- [Misaki](https://github.com/NotAWeebDev/Misaki), by [NotAWeebDev](https://github.com/NotAWeebDev)
-- [Bastion](https://github.com/TheBastionBot/Bastion/), by [Sankarsan Kampa](https://sankarsankampa.com)
-- [GuideBot](https://github.com/AnIdiotsGuide/guidebot), by [Evelyne Lachance](http://evie.codes)
+<ul>
+<li><strong><a href="https://github.com/NotAWeebDev/Misaki">Misaki</a></strong>, by <a href="https://github.com/NotAWeebDev">NotAWeebDev</a></li>
+<li><strong><a href="https://github.com/TheBastionBot/Bastion">Bastion</a></strong>, by <a href="https://sankarsankampa.com">Sankarsan Kampa</a></li>
+<li><strong><a href="https://github.com/AnIdiotsGuide/guidebot">GuideBot</a></strong>, by <a href="https://evie.codes/">Evelyne Lachance</a></li>
+</ul>
+</details>
 
-### TypeScript
+<details>
+<summary><strong>TypeScript</strong></summary>
 
-- [Taiga](https://github.com/jsmiith/taiga), by [jsmiith](https://github.com/jsmiith)
+<ul>
+<li><strong><a href="https://github.com/jsmiith/taiga">Taiga</a></strong>, by <a href="https://github.com/jsmiith">jsmiith</a></li>
+</ul>
+</details>

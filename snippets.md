@@ -1,17 +1,17 @@
 <!-- markdownlint-disable -->
+<!-- markdownlint-disable -->
 <div align="center">
-<img src="assets/snippets.png">
+<img src="assets/libraries.png">
 <br>
-<br>
-<p style="font-size: 36px; font-weight: bold;">Snippets ✂</p>
+<h1>Snippets ✂</h1>
 </div>
 
----
+A collection of snippets of code in various languages and libraries to help you out on your journey.
 
 ## Contents 📜
 
 <details>
-<summary><a href="#discord.js">Discord.js</a></summary>
+<summary><strong><a href="#discord.js">Discord.js</a></strong></summary>
 
 <ul>
 <li><a href="#calculating-a-members-join-position">Calculating a member's join position</a></li>
@@ -33,3 +33,5 @@
 #### Check for a member's tag or a user mention in a string and return a [GuildMember](https://discord.js.org/#/docs/main/stable/general/welcome)
 
 [![Check for Member](assets/snippets/discordjs-checkformember.png)](https://gist.github.com/jsmiith/61c117ff6150f00c83441154efab8ecf)
+
+<sub>Snippet images were generated using <a href="https://carbon.now.sh/">Carbon</a>.</sub>
