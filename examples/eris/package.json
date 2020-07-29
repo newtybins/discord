@@ -1,0 +1,13 @@
+{
+  "name": "eris-example",
+  "version": "1.0.0",
+  "description": "A simple ping bot written with eris",
+  "main": "index.js",
+  "repository": "https://github.com/newtykins/discord/examples/eris",
+  "author": "newt",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "eris": "^0.13.3"
+  }
+}

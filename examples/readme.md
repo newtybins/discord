@@ -9,24 +9,42 @@ Within this directory you can find various examples of Discord Bots written in d
 
 ## Libraries covered 📜
 
+<div align="center">
+<a href="discordjs/">
 <img src="../assets/libraries/discordjs.png" height="100">
 <br>
-<a href="discordjs/">discord.js</a> 
+discord.js
+</a> 
 <br>
 <br>
 
+<a href="discordpy/">
 <img src="../assets/libraries/discordpy.png" height="100">
 <br>
-<a href="discordpy/">discord.py</a>
+discord.py
+</a>
 <br>
 <br>
 
+<a href="Discordgo/">
 <img src="../assets/libraries/discordgo.png" height="100">
 <br>
-<a href="Discordgo/">Discordgo</a>
+Discordgo
+</a>
 <br>
 <br>
 
+<a href="serenity/">
 <img src="../assets/libraries/serenity.png" height="100">
 <br>
-<a href="serenity/">serenity</a>
+serenity
+</a>
+</div>
+
+<hr>
+
+### Others
+
+<ul>
+<li><a href="eris/">eris</a></li>
+</ul>

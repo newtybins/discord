@@ -24,14 +24,14 @@ A collection of snippets of code in various languages and libraries to help you 
 
 #### Calculating a member's join position
 
-[![Join Position](assets/snippets/discordjs-joinposition.png)](https://gist.github.com/jsmiith/98abdf4eadc03c89e7b7e7d3d8780793)
+[![Join Position](assets/snippets/discordjs-joinposition.png)](https://gist.github.com/newtykins/98abdf4eadc03c89e7b7e7d3d8780793)
 
 #### Check if a message was sent in a server
 
-[![Is Server](assets/snippets/discordjs-isserver.png)](https://gist.github.com/jsmiith/0c26ec4a865465f73b496daf35ac2b51)
+[![Is Server](assets/snippets/discordjs-isserver.png)](https://gist.github.com/newtykins/0c26ec4a865465f73b496daf35ac2b51)
 
 #### Check for a member's tag or a user mention in a string and return a [GuildMember](https://discord.js.org/#/docs/main/stable/general/welcome)
 
-[![Check for Member](assets/snippets/discordjs-checkformember.png)](https://gist.github.com/jsmiith/61c117ff6150f00c83441154efab8ecf)
+[![Check for Member](assets/snippets/discordjs-checkformember.png)](https://gist.github.com/newtykins/61c117ff6150f00c83441154efab8ecf)
 
 <sub>Snippet images were generated using <a href="https://carbon.now.sh/">Carbon</a>.</sub>

@@ -6,3 +6,4 @@ target
 Cargo.lock
 
 # other
+*-error.log

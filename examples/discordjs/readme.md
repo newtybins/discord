@@ -11,20 +11,8 @@ You can find documentation for `discord.js` [here](https://discord.js.org/#/docs
 
 ## Other examples of `discord.js` bots
 
-<details>
-<summary><strong>JavaScript</strong></summary>
-
 <ul>
 <li><strong><a href="https://github.com/NotAWeebDev/Misaki">Misaki</a></strong>, by <a href="https://github.com/NotAWeebDev">NotAWeebDev</a></li>
 <li><strong><a href="https://github.com/TheBastionBot/Bastion">Bastion</a></strong>, by <a href="https://sankarsankampa.com">Sankarsan Kampa</a></li>
 <li><strong><a href="https://github.com/AnIdiotsGuide/guidebot">GuideBot</a></strong>, by <a href="https://evie.codes/">Evelyne Lachance</a></li>
 </ul>
-</details>
-
-<details>
-<summary><strong>TypeScript</strong></summary>
-
-<ul>
-<li><strong><a href="https://github.com/jsmiith/taiga">Taiga</a></strong>, by <a href="https://github.com/jsmiith">jsmiith</a></li>
-</ul>
-</details>
