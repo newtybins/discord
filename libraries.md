@@ -15,7 +15,7 @@ A list of libraries to allow you to choose which one you would like to use on yo
 - [discord-hs](https://github.com/jano017/Discord.hs) - Haskell - _No example._
 - [Discord4J](https://github.com/austinv11/Discord4J) - Java - _No example._ <img src="assets/libraries/discord4j.png" height="20">
 - [JDA](https://github.com/DV8FromTheWorld/JDA/) - Java - **[Example](examples/jda)** <img src="assets/libraries/jda.png" height="20">
-- [Javacord](https://github.com/BtoBastian/Javacord) - Java - _No example._ <img src="assets/libraries/javacord.png" height="20">
+- [Javacord](https://github.com/BtoBastian/Javacord) - Java - **[Example](examples/javacord)** <img src="assets/libraries/javacord.png" height="20">
 - [eris](https://github.com/abalabahaha/eris) - JavaScript - **[Example](examples/eris)**
 - [discordie](https://github.com/qeled/discordie) - JavaScript - _No example._
 - [discord.js](https://github.com/hydrabolt/discord.js) - JavaScript - **[Example](examples/discord.js)** <img src="assets/libraries/discordjs.png" height="20">
