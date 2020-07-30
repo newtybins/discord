@@ -10,7 +10,7 @@ public class Main extends ListenerAdapter
 {
     public static void main(String[] args) throws LoginException {
         // Create an instance of the bot!
-        JDABuilder.createLight("your-super-secret-token", GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES)
+        JDABuilder.createLight(args[0], GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES)
                 .addEventListeners(new Main())
                 .build();
     }

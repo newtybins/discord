@@ -4,7 +4,7 @@ import org.javacord.api.DiscordApiBuilder;
 public class Main {
     public static void main(String[] args) {
         // Create an instance of the bot!
-        DiscordApi api = new DiscordApiBuilder().setToken("your-super-secret-token").login().join();
+        DiscordApi api = new DiscordApiBuilder().setToken(args[0]).login().join();
 
         // When a message is sent to a channel - and if the content of
         // the message is ping, reply with pong!
