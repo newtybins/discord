@@ -26,6 +26,14 @@ discord.py
 <br>
 <br>
 
+<a href="jda/">
+<img src="../assets/libraries/jda.png" height="100">
+<br>
+jda
+</a>
+<br>
+<br>
+
 <a href="Discordgo/">
 <img src="../assets/libraries/discordgo.png" height="100">
 <br>

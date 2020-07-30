@@ -10,5 +10,9 @@ Cargo.lock
 .pub
 .packages
 
+# JAVA
+.gradle
+.idea
+
 # other
 *-error.log
