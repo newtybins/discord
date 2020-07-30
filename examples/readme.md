@@ -34,6 +34,22 @@ jda
 <br>
 <br>
 
+<a href="javacord/">
+<img src="../assets/libraries/javacord.png" height="100">
+<br>
+javacord
+</a>
+<br>
+<br>
+
+<a href="jda/">
+<img src="../assets/libraries/discord4j.png" height="100">
+<br>
+discord4j
+</a>
+<br>
+<br>
+
 <a href="Discordgo/">
 <img src="../assets/libraries/discordgo.png" height="100">
 <br>
