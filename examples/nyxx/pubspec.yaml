@@ -1,0 +1,6 @@
+name: nyxexample
+dependencies:
+  nyxx:
+    git:
+      url: git://github.com/l7ssha/nyxx.git
+      ref: development

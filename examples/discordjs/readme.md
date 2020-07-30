@@ -5,7 +5,7 @@
 <h1><code>discord.js</code> example 🤖</h1>
 </div>
 
-Within this folder is an example of a `discord.js` ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `index.js` with your bot's token, opening a command prompt in this folder, and running `node index.js`.
+Within this folder is an example of a `discord.js` ping bot. You can run the bot yourself by cloning this repository, replacing the `your-super-secret-token` in `index.js` with your bot's token, opening a command prompt in this folder, running `npm` or `yarn` to download dependencies, and running `node index.js`.
 
 You can find documentation for `discord.js` [here](https://discord.js.org/#/docs/main/stable/general/welcome).
 

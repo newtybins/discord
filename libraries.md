@@ -10,7 +10,7 @@ A list of libraries to allow you to choose which one you would like to use on yo
 - [Discord.Net](https://github.com/RogueException/Discord.Net) - C# - _No example._
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus/) - C# - _No example._ <img src="assets/libraries/dsharpplus.png" height="20">
 - [discordcr](https://github.com/meew0/discordcr) - Crystal - _No example._
-- [nyx](https://github.com/hackzzila/nyx) - Dart - _No example._
+- [nyxx](https://github.com/l7ssha/nyxx) - Dart - **[Example](examples/nyxx)**
 - [Discordgo](https://github.com/bwmarrin/discordgo) - Go - **[Example](examples/Discordgo)** <img src="assets/libraries/discordgo.png" height="20">
 - [discord-hs](https://github.com/jano017/Discord.hs) - Haskell - _No example._
 - [Discord4J](https://github.com/austinv11/Discord4J) - Java - _No example._ <img src="assets/libraries/discord4j.png" height="20">

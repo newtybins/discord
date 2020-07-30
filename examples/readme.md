@@ -47,4 +47,5 @@ serenity
 
 <ul>
 <li><a href="eris/">eris</a></li>
+<li><a href="nyxx/">nyxx</a></li>
 </ul>
